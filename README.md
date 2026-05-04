@@ -4,8 +4,8 @@ Aplicación fullstack de gestión de tareas con tablero Kanban. Desarrollada con
 
 [![Deploy](https://img.shields.io/badge/deploy-vercel-black)](https://taskflow-xxx.vercel.app)
 
-**🔗 Demo:** [https://taskflow-xxx.vercel.app](https://taskflow-xxx.vercel.app) *(actualizar)*
-**📋 Tablero Trello:** [https://trello.com/b/LCMcdZJ7/taskflow](https://trello.com/b/) *(actualizar)*
+**🔗 Demo:** [https://taskflow-xxx.vercel.app]
+**📋 Tablero Trello:** [https://trello.com/b/LCMcdZJ7/taskflow]
 
 ---
 
