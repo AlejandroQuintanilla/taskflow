@@ -60,4 +60,4 @@ TaskFlow busca el punto intermedio: una herramienta visual, intuitiva y rápida,
 
 - **Repositorio GitHub:** [https://github.com/tu-usuario/taskflow](https://github.com/tu-usuario/taskflow) *(actualizar con la URL real)*
 - **Frontend desplegado:** [https://taskflow.vercel.app](https://taskflow.vercel.app) *(actualizar con la URL real)*
-- **Tablero Trello:** [https://trello.com/b/...](https://trello.com/b/) *(actualizar con la URL real)*
+- **Tablero Trello:** [https://trello.com/b/LCMcdZJ7/taskflow](https://trello.com/b/) *(actualizar con la URL real)*

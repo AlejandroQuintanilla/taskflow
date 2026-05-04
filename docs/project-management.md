@@ -22,7 +22,7 @@ He creado un tablero en Trello con las siguientes columnas:
 | **Review** | Tareas terminadas que necesitan revisión o prueba |
 | **Done** | Tareas completadas |
 
-**Enlace al tablero:** [https://trello.com/b/...](https://trello.com/b/) *(actualizar con la URL real)*
+**Enlace al tablero:** [https://trello.com/b/LCMcdZJ7/taskflow](https://trello.com/b/) *(actualizar con la URL real)*
 
 ---
 
