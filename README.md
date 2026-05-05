@@ -2,9 +2,9 @@
 
 Aplicación fullstack de gestión de tareas con tablero Kanban. Desarrollada con React + TypeScript + Tailwind CSS en el frontend y Node.js + Express en el backend.
 
-[![Deploy](https://img.shields.io/badge/deploy-vercel-black)](https://taskflow-xxx.vercel.app)
+[![Deploy](https://taskflow-omega-neon.vercel.app)]
 
-**🔗 Demo:** [https://taskflow-xxx.vercel.app]
+**🔗 Demo:** [https://taskflow-omega-neon.vercel.app]
 **📋 Tablero Trello:** [https://trello.com/b/LCMcdZJ7/taskflow]
 
 ---
@@ -30,7 +30,7 @@ Aplicación fullstack de gestión de tareas con tablero Kanban. Desarrollada con
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/taskflow.git
+git clone https://github.com/AlejandroQuintanilla/taskflow.git
 cd taskflow
 
 # Instalar dependencias
