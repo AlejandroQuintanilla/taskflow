@@ -12,8 +12,8 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
 
   if (req.method === 'OPTIONS') return res.status(200).end();
 
-  const url = req.url?.split('?')[0] ?? '';
-console.log('URL recibida:', url);
+  const rawUrl = req.url?.split('?')[0] ?? '';
+const url = rawUrl === '/api/index' ? '/api/v1/tasks' : rawUrl;
 
   if (url === '/health') return res.json({ status: 'ok', timestamp: new Date().toISOString() });
 
