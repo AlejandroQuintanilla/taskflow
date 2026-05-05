@@ -1,14 +1,9 @@
 {
     "buildCommand": "vite build",
     "outputDirectory": "dist",
-    "functions": {
-      "api/index.ts": {
-        "memory": 128
-      }
-    },
     "rewrites": [
-      { "source": "/api/(.*)", "destination": "/api/index" },
       { "source": "/health", "destination": "/api/index" },
+      { "source": "/api/:path*", "destination": "/api/index" },
       { "source": "/(.*)", "destination": "/index.html" }
     ]
   }
